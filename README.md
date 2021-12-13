@@ -2,8 +2,9 @@
 Documentate books I study  
 ## Reading Queue
 **[Rear]**  
+* [후니의 쉽게 쓴 Cisco 네트워킹](http://www.yes24.com/Product/Goods/64994948)  
 * [I Heart Logs](https://www.oreilly.com/library/view/i-heart-logs/9781491909379/)(Paused)  
-* [Designing Data-Intensive Applications](https://dataintensive.net/)(Now)  
+* [Designing Data-Intensive Applications](https://dataintensive.net/)(Paused)  
 * [Rebuilding Reliable Data Pipelines Through Modern Tools](https://www.oreilly.com/library/view/rebuilding-reliable-data/9781492058175/)
 * [Expert Hadoop Administration](https://www.amazon.com/Expert-Hadoop-Administration-Addison-Wesley-Analytics-ebook/dp/B01N682WZW)
 * [Architecting Modern Data Platform](https://www.oreilly.com/library/view/architecting-modern-data/9781491969267/)
