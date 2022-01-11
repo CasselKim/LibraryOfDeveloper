@@ -2,6 +2,7 @@
 Documentate books I study  
 ## Reading Queue
 **[Rear]**  
+* [넷플릭스의 클라우드 엔지니어링](https://casselkim.notion.site/26e64f1f844441cd8f133d0ec176e6c0)   
 * [Designing Data-Intensive Applications](https://dataintensive.net/)   
 * [I Heart Logs](https://www.oreilly.com/library/view/i-heart-logs/9781491909379/)
 * [Rebuilding Reliable Data Pipelines Through Modern Tools](https://www.oreilly.com/library/view/rebuilding-reliable-data/9781492058175/)
